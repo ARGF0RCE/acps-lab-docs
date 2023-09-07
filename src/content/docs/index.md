@@ -1,7 +1,6 @@
 ---
 title: Introduction to Cyber Physical Systems
 description: An extensive dive into the realm of Cyber Physical Systems, blending the physical world with computational processes.
-# editUrl: https://github.com/YourGitHubUsername/YourRepoName/edit/main/docs/cyber-physical-systems.md
 head:
   - tag: title
     content: Cyber Physical Systems - The Nexus of Physical and Digital Worlds
@@ -15,14 +14,6 @@ hero:
   image:
     alt: An illustration of interconnected devices and digital networks
     file: ..\\..\\assets\\cps-illustration.jpg
-  actions:
-    - text: Dive Deeper
-      link: .\\advanced-concepts\\
-      icon: right-arrow
-      variant: primary
-    - text: CPS Repositories
-      link: https://github.com/YourGitHubUsername/CPS-Resources
-      icon: external
 banner:
   content: |
     Did you know? Cyber Physical Systems play a pivotal role in smart manufacturing.
