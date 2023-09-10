@@ -4,9 +4,7 @@ description: An extensive dive into the realm of Cyber Physical Systems, blendin
 head:
   - tag: title
     content: Cyber Physical Systems - The Nexus of Physical and Digital Worlds
-tableOfContents:
-  minHeadingLevel: 2
-  maxHeadingLevel: 4
+tableOfContents: true
 template: doc
 hero:
   title: 'Cyber Physical Systems: Bridging Real and Virtual'
@@ -18,18 +16,6 @@ banner:
   content: |
     Did you know? Cyber Physical Systems play a pivotal role in smart manufacturing.
 lastUpdated: 2023-09-06
-prev:
-  link: ./previous-topic/
-  label: Understanding Industry 4.0
-next:
-  link: ./next-topic/
-  label: Exploring IoT in Modern Industry
-sidebar:
-  label: Cyber Physical Systems
-  order: 3
-#   badge:
-#     text: Core Concept
-#     variant: primary
 ---
 
 # Introduction to Cyber Physical Systems
@@ -59,6 +45,10 @@ The implications of CPS in modern society are vast. They find applications in:
 ### Future of CPS
 
 The future holds exciting developments in the domain of CPS. With advancements in AI, machine learning, and increased computational capabilities, we can expect even more seamless integration of the physical and digital realms, leading to a world where technology becomes an even more intrinsic part of our daily lives.
+
+## Content of CPS Lab
+
+[To be Filled]
 
 ## Conclusion
 
