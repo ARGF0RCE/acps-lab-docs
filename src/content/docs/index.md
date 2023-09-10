@@ -13,16 +13,16 @@ hero:
   tagline: Discover the synergy of physical processes and digital computation.
   image:
     alt: An illustration of interconnected devices and digital networks
-    file: ..\\..\\assets\\cps-illustration.jpg
+    file: ../../assets/cps-illustration.jpg
 banner:
   content: |
     Did you know? Cyber Physical Systems play a pivotal role in smart manufacturing.
 lastUpdated: 2023-09-06
 prev:
-  link: .\\previous-topic\\
+  link: ./previous-topic/
   label: Understanding Industry 4.0
 next:
-  link: .\\next-topic\\
+  link: ./next-topic/
   label: Exploring IoT in Modern Industry
 sidebar:
   label: Cyber Physical Systems

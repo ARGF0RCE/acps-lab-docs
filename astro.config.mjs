@@ -6,6 +6,10 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'ACPS Lab Documentation',
+			description: 'Documentation website for the Advanced Cyber Physical System Labs',
+			logo: {
+				src: './src/assets/iiitdmj-logo.jpg'
+			},
 			social: {
 				github: 'https://github.com/ARGF0RCE/acps-lab-docs',
 			},
