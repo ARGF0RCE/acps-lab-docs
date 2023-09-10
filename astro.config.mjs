@@ -3,6 +3,8 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://ARGF0RCE.github.io',
+	base: '/acps-lab-docs',
 	integrations: [
 		starlight({
 			title: 'ACPS Lab Documentation',
