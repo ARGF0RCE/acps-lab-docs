@@ -48,7 +48,23 @@ The future holds exciting developments in the domain of CPS. With advancements i
 
 ## Content of CPS Lab
 
-[To be Filled]
+### Lab Experiment 1: TinkerCAD and Arduino UNO
+Get acquainted with TinkerCAD's interface and run a basic simulation using Arduino UNO.
+
+### Lab Experiment 2: NODE MCU esp8266 with DHT-11 Sensor
+Learn to interface the NODE MCU esp8266 with the DHT-11 sensor and display temperature and humidity values on an HTML page.
+
+### Theory: Arduino Nano, Arduino UNO, and Raspberry Pi
+Delve into the specifics of Arduino Nano, Arduino UNO, and Raspberry Pi, understanding their unique capabilities. Nano Datasheet, UNO Datasheet, Raspberry Pi Datasheet
+
+### Lab Experiment 3: Introduction to PostgreSQL
+Familiarize yourself with PostgreSQL, learn to create databases and tables, and get an overview of SQL syntax and essential keywords.
+
+### Lab Experiment 4: Storing Sensor Data in Databases
+Understand the methods to store sensor-generated data into databases, ensuring data integrity and accessibility.
+
+### Lab Experiment 5: Dive into Cloud Computing
+Explore the basics of cloud computing, its applications, and the potential it holds for data storage and processing.
 
 ## Conclusion
 
